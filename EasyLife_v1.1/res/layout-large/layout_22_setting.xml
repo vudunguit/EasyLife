@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/TopHeight_Large"
+        android:background="@drawable/top_name" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/s_22_title"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_TopPage_Large"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/layout_Back"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="5dp" >
+
+            <ImageView
+                android:id="@+id/imgBack"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/s_04_back" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/margin_Bottom_Large"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/layout_CustomerService"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_CustomerService"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/setting3"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+
+            <RelativeLayout
+                android:id="@+id/layout_TermService"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_TermService"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1"
+                    android:paddingTop="2dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/setting4"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+
+            <RelativeLayout
+                android:id="@+id/layout_Privacy"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_Privacy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/setting5"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+
+            <RelativeLayout
+                android:id="@+id/layout_Recomment"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_Recomment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/settingRecomment"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+
+            <RelativeLayout
+                android:id="@+id/layout_SocialAccount"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_SocialAccount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/setting7"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+
+            <RelativeLayout
+                android:id="@+id/layout_Language"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/setting_TabHeight_Large"
+                android:background="#FFFFFF" >
+
+                <Button
+                    android:id="@+id/btn_Language"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/tab_button_1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="26dp"
+                    android:text="@string/setting8"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/textsize_SettingTab_Large"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="#000000" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

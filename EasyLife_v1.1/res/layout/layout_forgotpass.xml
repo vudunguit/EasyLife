@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_uiview"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/TopHeight"
+        android:background="@drawable/top_name" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/s_ForgotPass_title"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_TopPage"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/layout_Back"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="5dp" >
+
+            <ImageView
+                android:id="@+id/imgBack"
+                android:layout_width="@dimen/btnBackHeight"
+                android:layout_height="@dimen/btnBackHeight"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/s_04_back" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/s_ForgotPass_manual"
+            android:textColor="#683703" />
+
+        <EditText 
+            android:id="@+id/edtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/linear_border_login"
+            android:layout_marginTop="10dp"
+            android:hint="@string/s_ForgotPass_hint"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:paddingLeft="10dp"/>
+        
+        <Button
+            android:id="@+id/btnRequest"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/background_long_button"
+            android:text="@string/s_ChangePass_button"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

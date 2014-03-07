@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tabHost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/s_03_bg" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent" >
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_tab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="0"
+            android:background="@android:color/transparent" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_weight="0"
+                android:divider="#00000000"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_tab"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="0"
+                android:background="@android:color/transparent"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom" >
+
+                    <Button
+                        android:id="@+id/btn_tab_01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_post_xml"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="3dp"
+                        android:scaleType="fitXY"
+                        android:text="@string/tab1_text"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="0.5dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom" >
+
+                    <Button
+                        android:id="@+id/btn_tab_02"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_my_xml"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="3dp"
+                        android:scaleType="fitXY"
+                        android:text="@string/tab2_text"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="0.5dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom" >
+
+                    <Button
+                        android:id="@+id/btn_tab_03_search"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_search_xml"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="3dp"
+                        android:scaleType="fitXY"
+                        android:text="@string/tab3_text"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:textStyle="bold"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/btn_tab_03"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="0px"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_home_xml"
+                        android:padding="0px"
+                        android:scaleType="fitXY"
+                        android:visibility="visible" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="0.5dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom" >
+
+                    <Button
+                        android:id="@+id/btn_tab_04"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_job_xml"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="3dp"
+                        android:scaleType="fitXY"
+                        android:text="@string/tab4_text"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="0.5dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom" >
+
+                    <Button
+                        android:id="@+id/btn_tab_05"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/footer_association_xml"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="3dp"
+                        android:scaleType="fitXY"
+                        android:text="@string/tab5_text"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+
+                    <RelativeLayout
+                        android:id="@+id/rel_Notification"
+                        android:layout_width="17dp"
+                        android:layout_height="17dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@drawable/icon_notification" >
+
+                        <TextView
+                            android:id="@+id/txt_Number"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true" 
+                            android:textColor="#FFFFFF"
+                            android:textSize="10sp"
+                            android:text=""
+                            android:textStyle="bold"/>
+                    </RelativeLayout>
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</TabHost>

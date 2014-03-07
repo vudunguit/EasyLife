@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <dimen name="btnBackHeight">22dp</dimen>
+    <dimen name="leftbuttontextsize">12dp</dimen>
+    <dimen name="rightbuttontextsize">12dp</dimen>
+    <dimen name="franchiseItemHeight">70dp</dimen>
+    <dimen name="naviTextSize">20dp</dimen>
+    <dimen name="btnMapHeight">30dp</dimen>
+    <dimen name="btnMapTextSize">16dp</dimen>
+    <dimen name="btnLoginHeight">32dp</dimen>
+    <dimen name="btnLoginTextSize">18dp</dimen>
+    
+    
+    <dimen name="textSize_TopPage">20dp</dimen>
+    <dimen name="textSize_TopPage_Large">25dp</dimen>
+    <dimen name="textSize_TopPage_XLarge">35dp</dimen>
+    <dimen name="TopHeight">35dp</dimen>
+    <dimen name="TopHeight_Large">50dp</dimen>
+    <dimen name="TopHeight_XLarge">60dp</dimen>
+    <dimen name="bannerHeight">60dp</dimen>
+    <dimen name="bannerHeight_Large">75dp</dimen>
+    <dimen name="bannerHeight_XLarge">90dp</dimen>
+    
+    <!-- Setting Page -->
+    <dimen name="textsize_SettingTab">20dp</dimen>
+    <dimen name="textsize_SettingTab_Large">25dp</dimen>
+    <dimen name="textsize_SettingTab_XLarge">35dp</dimen>
+    <dimen name="setting_TabHeight">60dp</dimen>
+    <dimen name="setting_TabHeight_Large">70dp</dimen>
+    <dimen name="setting_TabHeight_XLarge">80dp</dimen>
+    
+    <dimen name="margin_Bottom">60dp</dimen>
+    <dimen name="margin_Bottom_Large">100dp</dimen>
+    <dimen name="margin_Bottom_XLarge">160dp</dimen>
+    
+</resources>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/s_03_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/layoutTop"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/TopHeight_XLarge"
+        android:background="@drawable/top_recommand_notext" >
+
+        <LinearLayout
+            android:id="@+id/layout_Back"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="5dp" >
+
+            <ImageView
+                android:id="@+id/imgBack"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/s_04_back" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txt_Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/title_Recommandation"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textSize_TopPage_XLarge"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/layout_Search"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="right"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/img_Search"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/s_05_button_serch" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal" >
+
+        <ToggleButton
+            android:id="@+id/btnListHot"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toogle_vip_selector"
+            android:checked="false"
+            android:enabled="true"
+            android:textColor="#FFFFFF"
+            android:textOff="@string/recommandation_hot"
+            android:textOn="@string/recommandation_hot"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/btnListNew"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toogle_new_selector"
+            android:enabled="true"
+            android:textColor="#FFFFFF"
+            android:textOff="@string/recommandation_new"
+            android:textOn="@string/recommandation_new"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/btnListNear"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toogle_hot_selector"
+            android:enabled="true"
+            android:textColor="#FFFFFF"
+            android:textOff="@string/recommandation_near"
+            android:textOn="@string/recommandation_near"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/margin_Bottom_XLarge"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp" >
+
+        <com.costum.android.widget.LoadMoreListView
+            android:id="@+id/listHot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animationCache="false"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:dividerHeight="3dp"
+            android:scrollbars="none"
+            android:scrollingCache="false"
+            android:visibility="gone" />
+
+        <com.costum.android.widget.LoadMoreListView
+            android:id="@+id/listNew"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animationCache="false"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:dividerHeight="3dp"
+            android:scrollbars="none"
+            android:scrollingCache="false"
+            android:visibility="gone" />
+
+        <com.costum.android.widget.LoadMoreListView
+            android:id="@+id/listNear"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animationCache="false"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:dividerHeight="3dp"
+            android:scrollbars="none"
+            android:scrollingCache="false"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

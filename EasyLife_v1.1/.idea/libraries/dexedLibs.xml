@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/httpclient-4.0.1-fca5b2701b54043e1bbb9da71be79c59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/twitter4j-core-2.1.11-a6a8d32001b9fc7c94d0d2ae29910ea6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/com_facebook_android-24372916f68e2c90f9b8febcb4a950f1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-e20bba9d6248fc6e87dd4b1c295e9e50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/signpost-core-1.2.1.1-1e9a5e5eecd415d7a21207a189ae1cee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/loadmore-ee60ae5469a7f01c167ca4303313e65f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-mapviewballoons-62a6c7504f20acf1969512814a8608e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/mixarelib-e4688ddf653d8ec59ad21631ba7e2d3e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/core-4ee407d868b3f89b559eaa103d206110.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/LocationMidlet-9875f9e1f27a97650e7596f1cea5a0df.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/signpost-commonshttp4-1.2.1.1-7ef7f6d57c302fab2ddbb171a6138873.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

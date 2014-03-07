@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    
+    
+    <string name="app_name">EZLife</string>
+    
+    <string name="customerService">  \n\n<b>Trung tâm dịch vụ khách hàng EZlife</b> cung cấp thông tin nhanh, chính xác, hiệu quả với phong cách phục vụ tận tình, chuyên nghiệp, hiện đại.
+		\n\t       - Phục vụ tất cả khách hàng trên lãnh thổ Việt Nam
+        \n\t       - Phục vụ 24h/7 ngày trong tuần, kể cả ngày Lễ, Tết
+        \n\t       - Cung cấp các tiện ích:
+        \n\t\t         + Hướng dẫn thủ tục, hỗ trợ khách hàng dễ dàng tìm kiếm thông tin, tự do lựa chọn sản phẩm dịch vụ theo nhu cầu;
+        \n\t\t         + Cung cấp thông tin sản phẩm, dịch vụ, chính sách ưu đãi mới nhất;
+        \n\t\t         + Giao dịch mọi lúc mọi nơi, tiết kiệm thời gian, chi phí giao dịch;
+        \n\t\t         + Tiếp nhận và giải quyết mọi vướng mắc, khiếu nại của khách hàng;
+        \n\t\t         + Bảo mật thông tin.
+        \n\n\n<b>Thông tin liên hệ:</b>
+        \n______________________________________
+		\n<b>Dịch vụ chăm sóc khách hàng EZLife</b>
+		\n\t    •	Điện thoại/Fax: (08) 371 54 714
+        \n\t    •	Hotline: 090 367 4040
+        \n\t    •	Email: info@ezlife.com.vn
+        \n\t    •	Website: www.ezlife.com.vn       
+	</string>
+	
+    <string name="privacy">\n<b><font fgcolor="#ff76923c">CHÍNH SÁCH BẢO MẬT THÔNG TIN</font></b>
+\n\nEZlife hiểu rằng Quý Khách Hàng rất quan tâm đến việc những thông tin cá nhân mà bạn đã tin cậy cung cấp cho chúng tôi được bảo mật và sử dụng ra sao. EZlife rất trân trọng sự tin tưởng đó và cam kết rằng những thông tin này sẽ được chúng tôi nỗ lực tối đa để bảo mật. 
+\n\nEZLife đảm bảo sẽ sử dụng thông tin khách hàng một cách hợp lý, có cân nhắc để không ngừng cải thiện chất lượng dịch vụ và đem lại cho Quý Khách Hàng những trải nghiệm thú vị khi sử dụng dịch vụ của chúng tôi.
+\n\n<b><font fgcolor="#ff76923c">Thu thập thông tin khách hàng</font></b>
+\n\nĐể sử dụng được các dịch vụ của EZLife, Quý Khách Hàng phải đăng ký tài khoản và cung cấp một số thông tin như: email, họ tên, số điện thoại và địa chỉ và một số thông tin khác. Phần thủ tục đăng k‎ý này nhằm giúp chúng tôi xác định viêc cung cấp cho các thành viên sử dụng hết các tiện ích của các ứng dụng. Bạn có thể chọn không cung cấp cho chúng tôi một số thông tin nhất định nhưng khi đó bạn sẽ không thể hưởng được một số tiện ích mà những tính năng của chúng tôi cung cấp.
+\n\nChúng tôi cũng lưu trữ bất kỳ thông tin nào bạn nhập trên website hoặc gửi đến EZlife. Những thông tin đó sẽ được sử dụng cho mục đích phản hồi yêu cầu của khách hàng, đưa ra những gợi ý‎ phù hợp cho từng khách hàng khi mua sắm tại EZlife, nâng cao chất lượng hàng hóa dịch vụ và liên lạc với bạn khi cần.
+\n\nNgoài ra, các thông tin giao dịch gồm: lịch sử mua hàng, giá trị giao dịch, phương thức vận chuyển và thanh toán cũng được EZlife lưu trữ nhằm giải quyết những vấn đề có thể phát sinh về sau.
+\n\n<b><font fgcolor="#ff76923c">Sử dụng thông tin</font></b>
+\n\nMục đích của việc thu thập thông tin là nhằm xây dựng EZlife trở thành một công ty mang lại nhiều tiện ích nhất cho khách hàng. Vì thế, việc sử dụng thông tin sẽ phục vụ những hoạt động sau:
+\n\n\t-	Gửi newsletter giới thiệu sản phẩm mới và những chương trình khuyến mãi của EZlife.
+\n\n\t-	Cung cấp một số tiện ích, dịch vụ hỗ trợ khách hang
+\n\n\t-	Nâng cao chất lượng dịch vụ khách hàng của EZlife.
+\n\n\t-	Giải quyết các vấn đề, tranh chấp phát sinh liên quan đến việc sử dụng các phần mềm, dịch vụ.
+\n\n\t-	Ngăn chặn những hoạt động vi phạm pháp luật Việt Nam.
+\n\n<b><font fgcolor="#ff76923c">Chia sẻ thông tin</font></b>
+\n\nEZlife biết rằng thông tin về khách hàng là một phần rất quan trọng trong việc kinh doanh và chúng sẽ không được bán, trao đổi cho một bên thứ ba nào khác. Chúng tôi sẽ không chia sẻ thông tin khách hàng trừ những trường hợp cụ thể sau đây:
+\n\n\t-	Để bảo vệ EZlife và các bên thứ ba khác: Chúng tôi chỉ đưa ra thông tin tài khoản và những thông tin cá nhân khác khi tin chắc rằng việc đưa những thông tin đó là phù hợp với luật pháp, bảo vệ quyền lợi, tài sản của người sử dụng dịch vụ, của EZlife và các bên thứ ba khác.
+\n\n\t-	Theo yêu cầu pháp l‎ý từ một cơ quan chính phủ hoặc khi chúng tôi tin rằng việc làm đó là cần thiết và phù hợp nhằm tuân theo các yêu cầu pháp l‎ý.
+\n\n\t-	Trong những trường hợp còn lại, chúng tôi sẽ có thông báo cụ thể cho Quý Khách Hàng khi phải tiết lộ thông tin cho một bên thứ ba và thông tin này chỉ được cung cấp khi được sự phản hồi đồng ‎ý‎ từ phía Quý Khách Hàng. VD: các chương trình khuyến mãi có sự hợp tác, tài trợ với các đối tác của EZlife; cung cấp các thông tin giao nhận cần thiết cho các đơn vị vận chuyển.
+\n\nNó chắc chắn không bao gồm việc bán, chia sẻ dẫn đến việc làm lộ thông tin cá nhân của khách hàng vì mục đích thương mại vi phạm những cam kết được đặt ra trong quy định Chính sách bảo mật thông tin khách hàng của EZlife
+\n\n<b><font fgcolor="#ff76923c">Sửa đổi và xoá thông tin tài khoản</font></b>
+ \n\nBạn có thể sửa đổi, cập nhật thông tin tài khoản của bạn bất cứ lúc nào. Cho dù, bạn tự xoá các thông tin đó đi nhưng chúng tôi có thể phục hồi những thông tin đó từ cơ sở dữ liệu của chúng tôi để giải quyết các tranh chấp, thi hành  bản thoả thuận người sử dụng, hay vì các yêu cầu kỹ thuật, pháp lý  liên quan đến sự an toàn và những hoạt động của trang website chúng tôi.
+\n\n<b><font fgcolor="#ff76923c">Bảo mật thông tin khách hàng</font></b>
+\n\nMột điều quan trọng đối với khách hàng là việc tự bảo vệ bạn trước sự tiếp cận thông tin về password khi bạn dùng chung máy tính với nhiều người. Khi đó, bạn phải chắc chắn đã thoát khỏi tài khoản sau khi sử dụng dịch vụ của chúng tôi.
+\n\nEZlife nhấn mạnh rằng chúng tôi rất quan tâm đến quyền lợi của Quý ‎khách hàng trong việc bảo vệ thông tin cá nhân nên trong trường hợp bạn có góp ‎ý, thắc mắc liên quan đến chính sách bảo mật của chúng tôi, vui lòng liên hệ:
+\n\nTel/Fax: (08) 371 54 714
+\n\nEmail: info@ezlife.com.vn
+\n\n<b><font fgcolor="#ff76923c">Lưu ‎ ý:</font></b>	Chính sách bảo mật thông tin khách hàng của EZlife chỉ được áp dụng tại website lien hệ của EZlife. Nó không bao gồm hoặc liên quan đến các bên thứ ba khác đặt quảng cáo hoặc có liên kết tại EZlife.
+	</string>
+    
+    <string name="use">\n<font fgcolor="#ff76923c"><b>ĐIỀU KHOẢN DỊCH VỤ CỦA EZLIFE</b></font>
+\n\nPhần mềm ứng dụng EZlife là tài sản của công ty Covisolf Việt Nam. Việc sử dụng các thông tin, sản phẩm trên EZlife đồng nghĩa với việc bạn đồng ý với các điều khoản này.
+Vui lòng đọc kỹ các điều khoản bên dưới đây.
+\n\n<b><font fgcolor="#ff76923c">Đăng ký sử dụng và đăng nhập tài khoản:</font></b>
+\nĐể sử dụng được các dịch vụ của EZLife, Quý Khách Hàng phải đăng ký tài khoản và cung cấp một số thông tin như: email, họ tên, số điện thoại và địa chỉ và một số thông tin khác. Phần thủ tục đăng k‎ý này nhằm giúp chúng tôi xác định viêc cung cấp cho các thành viên sử dụng hết các tiện ích của các ứng dụng. 
+\nChúng tôi cũng lưu trữ bất kỳ thông tin nào bạn nhập trên app, website hoặc gửi đến EZlife. Những thông tin đó sẽ được sử dụng cho mục đích phản hồi yêu cầu của khách hàng, đưa ra những gợi ý‎ phù hợp cho từng khách hàng khi sử dụng  EZlife, nâng cao chất lượng hàng hóa dịch vụ và liên lạc với bạn khi cần.
+\n\nNgoài ra, các thông tin giao dịch gồm: lịch sử mua hàng, giá trị giao dịch, phương thức vận chuyển và thanh toán cũng được EZlife lưu trữ nhằm giải quyết những vấn đề có thể phát sinh về sau.
+\n\n<b><font fgcolor="#ff76923c">Quyền thu thập và sử dụng thông tin:</font></b>
+\n\nMục đích của việc thu thập thông tin là nhằm xây dựng EZlife trở thành một công ty mang lại nhiều tiện ích nhất cho khách hàng. Vì thế, việc sử dụng thông tin sẽ phục vụ những hoạt động sau:
+\n-	Cung cấp một số tiện ích, dịch vụ hỗ trợ khách hàng
+\n-	Giải quyết các vấn đề, tranh chấp phát sinh liên quan đến việc sử dụng các phần mềm, dịch vụ. Nâng cao chất lượng dịch vụ khách hàng của EZlife.
+\n-	Ngăn chặn những hoạt động vi phạm pháp luật Việt Nam.
+\n\n<b><font fgcolor="#ff76923c">Bảo mật thông tin:</font></b>
+\n\nEZlife biết rằng thông tin về khách hàng là một phần rất quan trọng trong việc kinh doanh và chúng sẽ không được bán, trao đổi cho một bên thứ ba nào khác. Chúng tôi sẽ không chia sẻ thông tin khách hàng trừ những trường hợp cụ thể sau đây:
+\n\n-	 Chúng tôi chỉ đưa ra thông tin tài khoản và những thông tin cá nhân khác khi tin chắc rằng việc đưa những thông tin đó là phù hợp với luật pháp, bảo vệ quyền lợi, tài sản của người sử dụng dịch vụ, của EZlife và các bên thứ ba khác.
+\n\n-	Theo yêu cầu pháp l‎ý từ một cơ quan chính phủ hoặc khi chúng tôi tin rằng việc làm đó là cần thiết và phù hợp nhằm tuân theo các yêu cầu pháp l‎ý.
+\n\n-	Trong những trường hợp còn lại, chúng tôi sẽ có thông báo cụ thể cho Quý Khách Hàng khi phải tiết lộ thông tin cho một bên thứ ba và thông tin này chỉ được cung cấp khi được sự phản hồi đồng ‎ý‎ từ phía Quý Khách Hàng. 
+\nVD: các chương trình khuyến mãi có sự hợp tác, tài trợ với các đối tác của EZlife; cung cấp các thông tin giao nhận cần thiết cho các đơn vị vận chuyển.
+\n\nNó chắc chắn không bao gồm việc bán, chia sẻ dẫn đến việc làm lộ thông tin cá nhân của khách hàng vì mục đích thương mại vi phạm những cam kết được đặt ra trong quy định Chính sách bảo mật thông tin khách hàng của EZlife.
+\n\n<b><font fgcolor="#ff76923c">Cam kết sử dụng:</font></b>
+\nBạn cam kết sử dụng sản phẩm EZlife trong chừng mực phù hợp với tất cả các luật và quy định hiện hành, không dùng để gửi lên, truyền đi, phân tán, liên kết các nội dung:
+\n-	Chứa các thông tin quảng cáo
+\n-	Vi phạm pháp luật, các quy định của Chính phủ Việt Nam.
+\n-	Vi phạm các quy định về bản quyền nhãn hiệu, sở hữu trí tuệ, quyền sở hữu cá nhân.
+\n-	Chứa các thông tin có tính khiêu dâm, kích động, phỉ bán…hoặc trái với chuẩn mực đạo đức chung của xã hội dưới bất kì hình thức nào, bao gồm cả việc truyền bá hay khuyến khích những hành vi có thể cấu thành tội phạm hay vi phạm bất cứ điều khoản nào của luật pháp địa phương, quốc gia hay quốc tế
+\n-	Phá hoại tính an toàn và đồng nhất của sản phẩm
+\nBất cứ vi phạm nào đối với các quy định trên, EZlife sẽ hủy bỏ quyền sử dụng và tài khoản của người vi phạm. Đồng thời tùy theo mức độ vi phạm mà người vi phạm sẽ phải chịu trách nhiệm trước pháp luật.
+\n\n<b><font fgcolor="#ff76923c">Quy định về các hành động không được phép:</font></b> 
+\n-     Bạn không được quyền xâm phạm, xâm nhập, tiếp cận, sử dụng hay tìm cách xâm phạm, xâm nhập, tiếp cận hoặc sử dụng bất kỳ phần nào trong máy chủ của chúng tôi, và/ hoặc bất kỳ khu vực dữ liệu nào nếu không được chúng tôi cho phép.
+\n-	Bạn không gửi các thông tin có tính khiêu dâm, kích động, phỉ bán…hoặc trái với chuẩn mực đạo đức chung của xã hội dưới bất kì hình thức nào, bao gồm cả việc truyền bá hay khuyến khích những hành vi có thể cấu thành tội phạm hay vi phạm bất cứ điều khoản nào của luật pháp địa phương, quốc gia hay quốc tế.
+\n-     Bạn không được phép gửi hoặc truyền bất kỳ thông điệp nào mang tính quảng cáo, mời gọi, thư dây chuyền, cơ hội đầu tư hay bất kỳ dạng liên lạc có mục đích thương mại nào mà người dùng không mong muốn, thư rác hay tin nhắn rác.
+\n-     Bạn không gửi bất kỳ thông tin nào có chứa bất kỳ loại virus, Trojan, bọ hay các thành phần nguy hại nào.
+\n-     Bạn không được sử dụng thông tin trong trang web này với bất cứ hình thức nào hoặc bất cứ mục đích nào, trừ những điều khoản được xác lập trong bản Quy định sử dụng này.
+\n\n<b><font fgcolor="#ff76923c">Tuyên bố từ chối:</font></b>
+\n\nEZlife có các biện pháp bảo mật cho ứng dụng và các dịch vụ cung cấp. Tuy nhiên, chúng tôi không thể đảm bảo tuyệt đối trang web khỏi các hành động phá hoại hoặc các loại virus từ Internet và các chương trình khác.
+\nKhông có bất cứ bảo đảm nào hoặc tuyên bố nào về tính chính xác hay hoàn thiện của bất kỳ thông tin nào trên sản phẩm này. Trong bất kỳ trường hợp nàoEZlife sẽ không chịu trách nhiệm về bất cứ mất mát, thiệt hại, trách nhiệm mang lại do việc sử dụng thông tin từ ứng dụng này, cũng như bất kỳ lỗi, thiếu sót, gián đoạn hoặc chậm trễ về các thông tin.
+\nViệc sử dụng thông tin tại ứng dụng này là hoàn toàn tùy thuộc vào rủi ro riêng của người sử dụng. Trong bất kỳ trường hợp nào, EZlife hoặc các đại diện của mình sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, đặc biệt hoặc tất yếu nào.
+\nỨng dụng EZlife bao gồm các đường liên kết đến các trang web khác không thuộc quyền sở hữu hoặc kiểm soát của EZlife  hoặc chứa các thông tin do các bên thứ ba cung cấp. Do vậy, EZlife không chịu trách nhiệm về các lỗi hoặc thiếu sót trong thông tin trích dẫn và các nội dung, quyền riêng tư, tính bảo mật của các trang web liên kết đến cũng như các thiệt hại nếu có khi bạn truy nhập, sử dụng các trang web đó.
+\n\n<b><font fgcolor="#ff76923c">Cập nhật, thay đổi:</font></b>
+\n\nChúng tôi có toàn quyền bổ sung, sửa đổi hay xóa bỏ bất kỳ thông tin nào cũng như thay đổi giao diện, sự trình bày, thành phần hoặc chức năng, nội dung của trang ứng dụng này bao gồm bất kỳ khoản mục nào vào bất kì lúc nào mà không cần báo trước.
+\n\nThay đổi quy định
+\n\nChúng tôi có toàn quyền thay đổi quy định mà không cần báo trước. Với việc tiếp tục sử dụng EZlife sau những sửa đổi đó, bạn mặc nhiên đồng ý chấp hành các sửa đổi trong quy định.
+\n\n<b><font fgcolor="#ff76923c">Thông tin của bên thứ ba</font></b>
+\n\nThông tin được cung cấp tại EZlife có thể chứa thông tin từ bên thứ ba hoặc được chọn lọc từ các nguồn khác. Chúng tôi không chấp nhận bất cứ trách nhiệm nào về các thông tin mà chúng tôi đăng tải, bạn sẽ sử dụng hoặc đặt niềm tin vào những thông tin đó với hiểu biết, trách nhiệm và nguy cơ của riêng bạn.
+\n\n<b><font fgcolor="#ff76923c">Quyền sở hữu trí tuệ và các quyền khác</font></b>
+\n\nTất cả quyền sở hữu trí tuệ tồn tại trong ứng dụng EZlife đều thuộc về Công ty Covisolf Việt Nam (Cồ Việt). Theo đó, tất cả các quyền hợp pháp đều được đảm bảo. Trừ phi được sự đồng ý của EZlife, bạn không được phép tải lên, gửi, xuất bản, tái sản xuất, truyền hoặc phân phát bằng bất cứ hình thức nào bất cứ thành phần nào của sản phẩm hoặc tạo ra những bản sửa đổi của nội dung trong ứng dụng, sản phẩm EZlife.
+\nTại các khu vực được phép đăng tải bài viết, bạn có thể chia sẻ thông tin được phép dưới các định dạng chúng tôi mặc định và bạn phải tự chịu trách nhiệm đối với các nội dung, thông tin, hình ảnh và bất kỳ sự chia sẻ nào khác của bạn với cá nhân người sử dụng hoặc nhóm người sử dụng.
+\nTuy nhiên, trong mọi trường hợp, chúng tôi vẫn được bảo lưu quyền xử lý các thông tin đăng tải cho phù hợp với thuần phong mỹ tục, các quy tắc đạo đức và các quy tắc đảm bảo an ninh quốc gia, và chúng tôi có toàn quyền cho phép hoặc không cho phép bài viết của bạn xuất hiện hay tồn tại trên diễn đàn hoặc tại các khu vực được phép chia sẻ thông tin.
+\nChúng tôi có toàn quyền, bao gồm quyền tác giả, thương hiệu, bí mật kinh doanh và các quyền sở hữu khác, nội dung của sản phẩm EZlife, và hàng hóa hoặc dịch vụ được cung cấp mà chúng tôi có trong EZlife.
+\nViệc sử dụng quyền và sở hữu của chúng tôi cần phải được chúng tôi cho phép trước bằng văn bản. Ngoài việc cấp phép bằng văn bản, chúng tôi không cấp phép dưới bất kỳ hình thức nào khác cho dù đó là hình thức công bố hay hàm ý, hoặc thông qua việc để bạn sử dụng dịch vụ. Và do vậy, bạn không có quyền sử dụng ứng dụng, website hoặc dịch vụ của chúng tôi vào mục đích thương mại mà không có sự cho phép bằng văn bản của chúng tôi trước đó.
+\n\n<b><font fgcolor="#ff76923c">Luật áp dụng:</font></b>
+\n\nBạn đồng ý rằng bản Quy định sử dụng và bất kỳ bất đồng nào phát sinh từ việc bạn sử dụng website này hoặc các sản phẩm và dịch vụ của chúng tôi sẽ được giải quyết theo luật pháp hiện hành của Nước Cộng hoà Xã hội Chủ nghĩa Việt Nam. Thông qua việc đăng ký hoặc sử dụng website và dịch vụ của chúng tôi, bạn mặc nhiên đồng ý và tuân thủ toàn bộ các quy định của Luật pháp Việt Nam.
+	</string>
+    
+<!-- ******************************************************************** -->
+
+ 	<string name="tab1_text">Yêu Thích</string>
+    <string name="tab2_text">Voucher</string>
+    <string name="tab3_text">Tìm Kiếm</string>
+    <string name="tab4_text">Rao Vặt</string>
+    <string name="tab5_text">Thêm</string>
+    
+    <string name="QR_Yes">Đồng Ý</string>
+    <string name="QR_No">Hủy</string>
+    <string name="QR_PassHint">Nhập Mật Khẩu</string>
+    
+    <string name="Yes">Có</string>
+    <string name="No">Không</string>
+    <string name="Accept">OK</string>
+    
+    <string name="s_6_1_title">Đăng Nhập</string>
+    <string name="s_6_2_title">Đăng Ký</string>
+    <string name="s_9_title">Hình Ảnh</string>
+    <string name="s_11_title_favourite">Yêu Thích</string>
+    <string name="s_12_title_menu">Bảng Giá</string>
+    <string name="s_14_title_mycoupon">Voucher</string>
+    <string name="s_18_Title_Franchise">Chuỗi Cửa Hàng</string>
+    <string name="s_22_title">Cài Đặt</string>
+    <string name="s_24_Title_QRCode">Hình Ảnh Voucher</string>
+    <string name="socialNetworkTitle">Thiết Lập Chia Sẻ</string>
+    <string name="title_manual_list">Hướng Dẫn Sử Dụng</string>
+    <string name="title_Recommandation">Nổi Bật</string>
+    <string name="title_Membership">Liên Hệ</string>  
+    <string name="text_txt_map">Bản Đồ</string>
+    <string name="text_txt_menu">Bảng Giá</string>
+    <string name="text_txt_photo">Hình Ảnh</string>
+    <string name="hire_Title">Rao Vặt</string>
+    <string name="title_NoticList">Khuyến Mãi - Sự Kiện</string>
+    <string name="s_Login_title">Đăng Nhập</string>
+    <string name="s_Profile_title">Hồ Sơ</string>
+    <string name="s_More_title">Thêm</string>
+    <string name="s_Account_title">Cài Đặt Tài Khoản</string>
+    <string name="s_UpdateInfo_title">Cập Nhật Thông Tin</string>
+    <string name="s_ChangePass_title">Đổi Mật Khẩu</string>
+    <string name="s_ForgotPass_title">Quân Mật Khẩu</string>
+    <string name="s_Info_title">Thông Tin</string>
+    <string name="s_NotifyList_title">Thông Báo</string>
+    <string name="s_Comment_title">Đóng Góp Ý Kiến</string>
+    <string name="s_Title_Transfer">Chuyển Voucher</string>
+    <string name="s_Title_ChangeLanguage">Language</string>
+    
+    
+    <string name="text_top_category">Loại</string>
+    <string name="text_top_Food">Ăn Uống</string>
+    <string name="text_top_Education">Giáo Dục</string>
+    <string name="text_top_Beauty">Làm Đẹp</string>
+    <string name="text_top_Shopping">Mua Sắm</string>
+    <string name="text_top_Tourism">Du Lịch</string>
+    <string name="text_top_Entertainment">Giải Trí</string>
+    <string name="text_top_Health">Y Tế</string>
+    <string name="text_top_map">Bản Đồ</string>
+    
+    <string name="top_all_Category">Danh Sách</string>
+    
+	<string name="setting1">Đăng Nhập</string>
+    <string name="setting2">Hướng Dẫn Sử Dụng</string>
+    <string name="setting3">Dịch Vụ Khách Hàng</string>
+    <string name="setting4">Điều Khoản Dịch Vụ</string>
+    <string name="setting5">Chính Sách Bảo Mật</string>
+    <string name="setting6">Phiên Bản</string>
+    <string name="settingRecomment">Chia Sẻ</string>
+    <string name="setting7">Quản Lý Tài Khoản</string>
+    <string name="setting8">Language</string>
+    
+    <string name="recommand1">CHIA SẺ ỨNG DỤNG CÙNG BẠN BÈ</string>
+    <string name="recommand2">Hãy sử dụng khuyến mãi trên mobile với dịch vụ</string>
+    <string name="recommand3">EZLife</string>
+    
+    <string name="Search_Title">Tìm Kiếm</string>
+    <string name="Search_Name">Tên Quán</string>
+    <string name="Search_Location">Địa Chỉ</string>
+    <string name="Search_Product">Sản Phẩm</string>
+    
+    <string name="Franchise_List_Address">Địa Chỉ:</string>
+    <string name="Franchise_List_TelNo">Số Điện Thoại:</string>
+    
+    <string name="s_5_ListShop_Phone">Gọi</string>
+    
+    <string name="Save_ID">Ghi Nhớ Đăng Nhập</string>
+    <string name="Find_ID">Tìm Tên Đăng Nhập</string>
+    <string name="Find_Pass">Tìm Mật Khẩu</string>
+    
+    <string name="s_6_1_email">Tên Đăng Nhập</string>
+    <string name="s_6_1_pass">Mật Khẩu</string>
+    <string name="s_6_1_Btn_login">Đăng Nhập</string>
+    <string name="s_6_1_Btn_Join">Đăng Ký</string>
+    <string name="s_06_1_welcome">Xin Chào</string>
+    <string name="s_06_1_logout">Đăng Xuất</string>
+    <string name="s_06_1_logout_text">Chào Mừng Bạn Đến Với EZLife</string>
+    
+    <string name="s_logoutPage_editImg">Cập Nhật</string>
+    <string name="s_logoutPage_name">Họ và Tên</string>
+    <string name="s_logoutPage_phone">Số Điện Thoại</string>
+    <string name="s_logoutPage_gender">Giới Tính</string>
+    <string name="s_logoutPage_account">Tài Khoản EZLife</string>
+    <string name="s_logoutPage_info">Thông Tin</string>
+    <string name="s_logoutPage_logout">Đăng Xuất</string>
+    
+    <string name="s_AccountPage_FullName">Họ và Tên</string>
+    <string name="s_AccountPage_Email">Email</string>
+    <string name="s_AccountPage_Birthday">Ngày Sinh</string>
+    <string name="s_AccountPage_Gender">Giới Tính</string>
+    <string name="s_AccountPage_Phone">Điện Thoại</string>
+    <string name="s_AccountPage_Address">Địa Chỉ</string>
+	<string name="s_AccountPage_btnUpdate">Cập Nhật Thông Tin</string>
+	<string name="s_AccountPage_btnChangePass">Thay Đổi Mật Khẩu</string>
+	<string name="s_AccountPage_recomment">Sử dụng tải khoản EZLife.\nChúng tôi sẽ cung cấp đầy đủ dịch vụ trên hệ thống.</string>
+	
+	<string name="s_UpdateInfo_help">Thông tin này sẽ giúp EZlife phục vụ bạn tốt hơn.</string>
+	<string name="s_UpdateInfo_update">Cập Nhật</string>
+	<string name="s_UpdateInfo_male">Nam</string>
+	<string name="s_UpdateInfo_female">Nữ</string>
+	
+	<string name="s_ChangePass_manual">Xin điền đầy đủ thông tin:</string>
+	<string name="s_ChangePass_old">Mật khẩu cũ</string>
+	<string name="s_ChangePass_new">Mật khẩu mới ( 4 -16 ký tự )</string>
+	<string name="s_ChangePass_confirm">Nhập lại mật khẩu mới</string>
+	<string name="s_ChangePass_button">Xác Nhận</string>
+	
+	<string name="s_ForgotPass_manual">Nhập địa chỉ Email của bạn</string>
+	<string name="s_ForgotPass_hint">Đại chỉ Email</string>
+	<string name="s_ForgotPass_button">Xác Nhận</string>
+	
+	<string name="s_InfoPage_1">Hướng Dẫn Sử Dụng</string>
+	<string name="s_InfoPage_2">Gửi Phản Hồi</string>
+	<string name="s_InfoPage_3">Đánh Giá EZLife</string>
+	<string name="s_InfoPage_4">EZLife Trên Facebook</string>
+	<string name="s_InfoPage_5">EZLife Trên ZingMe</string>
+	
+	<string name="s_Comment_PI">Thông Tin Cá Nhân</string>
+	<string name="s_Comment_hint1">Họ và Tên</string>
+	<string name="s_Comment_hint2">Email</string>
+	<string name="s_Comment_hint3">Số Điện Thoại</string>
+	<string name="s_Comment_Cont">Nội Dung</string>
+	<string name="s_Comment_Confirm">Xác Nhận</string>
+	
+    
+    <string name="s_Login_1">Đăng nhập với tài khoản EZlife của bạn</string>
+    <string name="s_Login_2">Đăng Nhập</string>
+    <string name="s_Login_3">Quên mật khẩu?</string>
+    <string name="s_Login_4">EZLife - Thổ địa đường phố \nĐăng ký 1 tài khoản dễ dàng với Email của \nbạn để EZLife phục vụ bạn tốt hơn</string>
+    <string name="s_Login_5">Đăng Ký Tài Khoản</string>
+    
+    
+    
+    <string name="s_6_2_text1">Thông tin bắt buộc</string>
+    <string name="s_6_2_text2">Một vài thông tin cá nhân sẽ giúp chúng tôi phục vụ bạn tốt hơn</string>
+    <string name="s_6_2_id">Tên Đăng Nhập</string>
+    <string name="s_6_2_password">Mật Khẩu</string>
+    <string name="s_6_2_passcheck">Xác Nhận Mật Khẩu</string>
+    <string name="s_6_2_name">Họ và Tên</string>
+    <string name="s_6_2_birthday">Sinh Nhật</string>
+    <string name="s_6_2_sex">Giới Tính</string>
+    <string name="s_6_2_email">Email</string>
+    <string name="s_6_2_phonenumber">Số di động</string>
+    <string name="s_6_2_address">Địa Chỉ</string>
+    <string name="s_6_2_submit">Tạo Tài Khoản</string>
+    
+    <string name="s_6_2_hint_username">Chỉ nhập số và chữ cái. Tối thiểu 3 ký tự</string>
+    <string name="s_6_2_hint_password">Mật Khẩu (4 - 16 ký tự)</string>
+    <string name="s_6_2_hint_name">Nhập Họ và Tên</string>
+    <string name="s_6_2_hint_nickname">Nhập nickname</string>
+    <string name="s_6_2_hint_email">Địa Chỉ Email</string>
+    <string name="s_6_2_hint_birth1">DD</string>
+    <string name="s_6_2_hint_birth3">YYYY</string>
+    <string name="s_6_2_hint_phonenumber">Nhập Số Điện Thoại</string>
+    <string name="s_6_2_hint_address">Nhập Địa Chỉ</string>
+    
+    <string name="s_07_Parking_Yes">Có</string>
+    <string name="s_07_Parking_No">Không</string>
+    <string name="s_07_Delivery_Yes">Có</string>
+    <string name="s_07_Delivery_No">Không</string>
+    <string name="s_07_btn_Image">Hình Ảnh</string>
+    <string name="s_07_btn_Map">Bản Đồ</string>
+    <string name="s_07_btn_Menu">Sản Phẩm</string>
+    <string name="s_07_btn_Share">Chia Sẻ</string>
+    <string name="s_07_btn_Like">Yêu Thích</string>
+    <string name="s_07_btn_Phone">Gọi</string>
+    
+    <string name="s_07_info_1">Thời Gian Làm Việc</string>
+    <string name="s_07_info_2">Ngày Nghỉ</string>
+    <string name="s_07_info_3">Vị Trí</string>
+    <string name="s_07_info_4">Bãi Giữ Xe</string>
+    <string name="s_07_info_5">Giao Hàng</string>
+    <string name="s_07_info_6">Wifi</string>
+    <string name="s_07_info_7">Trang Chủ</string>
+    <string name="s_07_info_8">Facebook</string>
+    
+    <string name="s_07_Btn_Send">Gửi</string>
+    <string name="s_07_No_Coupon">Voucher</string>
+    <string name="s_07_No_Event">Sự Kiện</string>
+    <string name="s_07_No_Comment">Không Có Bình Luận Nào</string>
+    <string name="s_07_View_Coupon">Xem</string>
+    <string name="s_07_Title_ListCoupon">Danh Sách E-Voucher</string>
+    <string name="s_07_Title_ListQRCoupon">Danh Sách QR-Voucher</string>
+    <string name="s_07_ListEvent_Name">Tên Sự Kiện</string>
+    <string name="s_07_ListEvent_Cont">Chi Tiết</string>
+    <string name="s_07_ListEvent_StartDate">Thời Gian</string>
+    
+    
+    <string name="s_08_btn_Find">Tìm</string>
+    <string name="s_08_Search_Hint">Nhập Từ Khóa...</string>
+    
+    <string name="s_09_Inner_Photo">Danh Sách</string>
+    
+    <string name="s_10_Map_Direction">Tìm Đường</string>
+    
+    <string name="s_11_toogle_shop">Cửa Hàng</string>
+    <string name="s_11_toogle_job">Rao Vặt</string>
+    <string name="s_11_ListShop_Phone">Gọi</string>
+    <string name="s_11_ListShop_Delete">Xóa</string>
+    
+    <string name="s_12_vnd">đ</string>
+    
+    <string name="s_13_btn_All">Xem</string>
+    <string name="s_13_Title_ListCoupon">Danh Sách Voucher</string>
+    <string name="s_13_ListItem_expiredDate">Hết Hạn</string>
+    <string name="s_13_ListItem_coupon_Content">Chi Tiết</string>
+    <string name="s_13_ListItem_caution">Chú Ý</string>
+    <string name="s_13_ListItem_image">Hình Ảnh</string>
+    <string name="s_13_ListItem_addCoupon">Thêm Voucher</string>
+    
+    <string name="s_13_QRCoupon_EndDate">Ngày Hết Hạn</string>
+	<string name="s_13_QRCoupon_Content">Nội Dung</string>
+	<string name="s_13_QRCoupon_Manual">Liên Hệ Quản Lý Cửa Hàng Để Biết Thêm Chi Tiết</string>
+    
+    <string name="s_14_normalbtncoupon">E-Voucher</string>
+    <string name="s_14_qrbtncoupon">QR-Voucher</string>
+    <string name="s_14_ListCoupon_Remain">Còn Lại\n</string>
+    <string name="s_14_ListCoupon_Date">Ngày</string>
+    <string name="s_14_ListCoupon_Delete">Xóa</string>
+    
+    <string name="s_15_btn_UseCoupon">Sử Dụng Voucher</string>
+    <string name="s_15_btn_Transfer">Trao Đổi Voucher</string>
+    <string name="s_15_btn_Share">Chia Sẻ Voucher</string>
+    <string name="s_15_useCoupon1">Nút *Sử Dụng Voucher*</string>
+    <string name="s_15_useCoupon2">Dùng để xác nhận sử dụng Voucher</string>
+    <string name="s_15_useCoupon3">Chỉ được dùng 1 lần bởi chủ cửa hàng</string>
+    <string name="s_15_expiredDate">Hết Hạn</string>
+    <string name="s_15_coupon_Content">Chi Tiết</string>
+    <string name="s_15_caution">Chú Ý</string>
+    <string name="s_15_couponID">Mã</string>
+    
+    <string name="s_17_btn_Like">Yêu Thích</string>
+    <string name="s_17_btn_Phone">Gọi</string>
+    <string name="s_17_Title_Content">Thông Tin Chi Tiết</string>
+    <string name="s_17_Title_Image">Hình Ảnh</string>
+    <string name="s_17_Title_Map">Địa Điểm</string>
+    <string name="s_17_hire_worklong">Thời Gian : </string>
+    <string name="s_17_hire_date">Ngày/Thời Gian : </string>
+    <string name="s_17_hire_salary">Biên Chế/Giờ : </string>
+    <string name="s_17_hire_farewell">Phúc Lợi : </string>
+    <string name="s_17_hire_etc">...vv : </string>
+    
+    <string name="s_19_ShopList">Danh Sách Cửa Hàng</string>
+    <string name="s_19_btn_All">Xem</string>
+    
+    <string name="s_23_goToHome">Đến Trang Chủ</string>
+    
+    <string name="s_24_qrCoupon_1">Khi bức ảnh được mở hoàn toàn \n bạn có thể nhận được</string>
+    <string name="s_24_qrCoupon_2">dịch vụ QR-Voucher.</string>
+    <string name="s_24_qrCoupon_4">Số ô đã được mở hoàn toàn</string>
+    <string name="s_24_qrCoupon_5">Bạn hãy mang đến cửa hàng và sử dụng </string>
+    <string name="s_24_qrCoupon_6">dịch vụ voucher.</string>
+    
+    <string name="s_VoucherEvent_1">Voucher</string>
+    <string name="s_VoucherEvent_2">Sự Kiện</string>
+    
+    <string name="membership_Top">Đăng Ký</string>
+    <string name="membership_check1">Quảng Cáo</string>
+    <string name="membership_check2">Công Ty</string>
+	<string name="membership_Text_1">Công Ty</string>
+    <string name="membership_Text_2">Điện Thoại</string>
+    <string name="membership_Text_3">Email</string>
+    <string name="membership_Text_4">Địa Chỉ</string>
+    <string name="membership_Text_5">Nội Dung</string>
+    <string name="membership_Btn_Cancel">Huỷ</string>
+    <string name="membership_Btn_Send">Gửi</string>
+    
+    <string name="Map_My_Location">Vị Trí Hiện Tại</string>
+    <string name="map_AddressTitle">Địa Chỉ</string>
+    
+    <string name="VERSION">\n Phiên Bản: 0.0.0.4</string>
+    
+    <string name="recommandation_new">Mới Nhất</string>
+    <string name="recommandation_hot">HOT</string>
+    <string name="recommandation_vip">VIP</string>
+    <string name="recommandation_near">Gần Đây</string>
+    
+    <string name="shopRank_VIP">VIP</string>
+    <string name="shopRank_Member">Thành Viên</string>
+    <string name="shopRank_Normal">Bình Thường</string>
+    
+    
+    
+    <string name="s_TransferCoupon_title1">Tài Khoản Của Bạn:</string>
+    <string name="s_TransferCoupon_title2">Tài Khoản Người Nhận:</string>
+    <string name="s_TransferCoupon_hint1">ID</string>
+    <string name="s_TransferCoupon_hint2">Password</string>
+    <string name="s_TransferCoupon_hint3">Email</string>
+    <string name="s_TransferCoupon_hint4">ID</string>
+    <string name="s_TransferCoupon_hint5">Email</string>
+    <string name="s_TransferCoupon_Confirm">Chuyển</string>
+    
+    
+    <string name="s_More_Contact">Liên Hệ</string>
+    <string name="s_More_MyProfile">Hồ Sơ</string>
+    <string name="s_More_Notify">Thông Báo</string>
+    <string name="s_More_Info">Thông Tin</string>
+    <string name="s_More_Setting">Cài Đặt</string>
+    
+    
+    <string name="s_ChangeLanguage_Done">Done</string>
+    
+    <!-- ========================POPUP===================== -->
+    <string name="finding_Location">Vị Trí Hiện Tại...</string>
+    <string name="popup_OpenGPS">Bạn cần mở GPS để tất cả các chức năng hoạt động hoàn chỉnh.\n\nBạn có muốn mở GPS?</string>
+    <string name="popup_Quit">Bạn có thật sự muốn\nThoát Chương Trình?</string>
+    <string name="No_Internet">Bạn không có kết nối internet.\n Không thể sử dụng EZLife</string>
+    <string name="No_Internet_now">Bạn đã bị mất kết nối internet.\n Không thể tiếp tục sử dụng EZLife</string>
+    <string name="No_Location">EZLife không thể xác định được vị trí hiện tại của bạn</string>
+    <string name="No_Response">EZLife không thể kết nối tới server vào lúc này.\nMời bạn thử lại</string>
+    
+    <string name="popup_Coupon_Added">Đã thêm voucher</string>
+    <string name="popup_Coupon_Del">Bạn có chắc muốn xoá voucher?</string>
+    <string name="popup_Coupon_Del_Success">Đã xóa voucher!</string>
+    <string name="popup_Coupon_Del_Fail">Không thể xóa voucher,\n Vui lòng thử lại!</string>
+    <string name="popup_Coupon_Use">Bạn có muốn sử dụng voucher?</string>
+    <string name="popup_Coupon_Use_Success">Chúc mừng bạn,\n bạn đã nhận được voucher!</string>
+    <string name="popup_Coupon_Use_Fail">Có lỗi trong quá trình sử dụng, \n Mới thử lại sau</string>
+    <string name="popup_CouponExisted">Voucher đã tồn tại</string>
+    <string name="popup_Coupon_Transfer_WrongInfo">Thông tin của bạn không chính xác,\n Vui lòng kiểm tra lại</string>
+    <string name="popup_Coupon_Transfer_WrongRecipients">Thông tin người nhận không chính xác,\n Vui lòng kiểm tra lại</string>
+    <string name="popup_Coupon_Transfer_Existed">Người nhận đang sưu tầm voucher này,\n Không thể chuyển!</string>
+    <string name="popup_Coupon_Transfer_Success">Đã chuyển voucher thành công</string>
+    
+    <string name="popup_QRCoupon_CannotUse">Không Thể Sử Dụng QR-Voucher Này.</string>
+    <string name="popup_QRCoupon_NotFull_Use">Bạn chưa mở được hoàn toàn bức ảnh!</string>
+    <string name="popup_QRCoupon_Full_Use">Bạn có muốn sử dụng voucher?</string>
+    <string name="popup_QRCoupon_NotFull_Transfer">Bạn không thể dùng chức năng chuyển voucher vì bức hình trên chưa mở hết!</string>
+    <string name="popup_QRCoupon_Full_Transfer">Bạn có muốn dùng chức năng này để chuyển voucher của bạn cho người khác?</string>
+    <string name="popup_QRCoupon_Full_Transfer_1">Thông tin của bạn không chính xác,\n Vui lòng kiểm tra lại</string>
+    <string name="popup_QRCoupon_Full_Transfer_2">Thông tin người nhận không chính xác,\n Vui lòng kiểm tra lại</string>
+    <string name="popup_QRCoupon_Full_Transfer_3">Voucher không hợp lệ</string>
+    <string name="popup_QRCoupon_Full_Transfer_7">Đã chuyển voucher thành công</string>
+    <string name="popup_QRCoupon_Full_Transfer_8">Người nhận đang sưu tầm voucher này,\n Không thể chuyển!</string>
+    <string name="popup_QRCoupon_Success">Chúc mừng,\n bạn đã nhận được dịch vụ voucher</string>
+    
+    
+    <string name="popup_TransferQRCoupon_NotEnought">Bạn chưa điền đầy đủ thông tin, \n Xin kiểm tra lại!</string>
+    <string name="popup_TransferQRCoupon_SameUser">Bạn không thể chuyển voucher cho chính mình!</string>
+    <string name="popup_TransferQRCoupon_Success">Bạn đã chuyển voucher thành công!</string>
+    
+    
+    <string name="popup_WrongLink">Địa chỉ liên kết không còn tồn tại</string>
+    
+    <string name="popup_Favourite_AddSuccessful">Đã lưu thành công</string>
+    <string name="popup_Favourite_Existed">Đã tồn tại trong danh sách yêu thích</string>
+    <string name="popup_Favourite_Delete">Bạn có chắc muốn xoá?</string>
+    <string name="popup_Favourite_Del_Success">Đã xóa cửa hàng này trong danh sách yêu thích</string>
+    <string name="popup_Favourite_Del_Fail">Không thể xoá cửa hàng này trong danh sách yêu thích</string>
+    <string name="popup_Favourite_NoAnyFav">Không có yêu thích nào.</string>
+    
+    <string name="popup_Facebook_Logout">Đăng Xuất?</string>
+    
+    <string name="popup_No_Recruitment">Danh mục này không có tin rao vặt nào</string>
+    
+    <string name="popup_CannotSearchName">Mời nhập tên shop muốn tìm</string>
+    <string name="popup_CannotSearchLocation">Mời nhập địa chỉ shop muốn tìm</string>
+    <string name="popup_CannotSearchProduct">Mời nhập sản phẩm muốn tìm</string>
+    <string name="popup_Search_EmptyList">Không có shop nào thỏa mãn yêu cầu</string>
+    
+    <string name="popup_LoginFail_FillID">Hãy điền tên đăng nhập của bạn</string>
+    <string name="popup_LoginFail_FillPass">Hãy điền mật khẩu của bạn</string>
+    <string name="popup_LoginFail">Sai tên đăng nhập hoặc mật khẩu, \n Vui lòng kiểm tra lại</string>
+    <string name="popup_LoginFail_Wrong_username">Vui lòng kiểm tra tên đăng nhập.</string>
+    <string name="popup_LoginFail_Wrong_pass">Vui lòng kiểm tra mật khẩu.</string>
+    <string name="popup_LoginFail_cannotConnect">Không thể đăng nhập vào lúc này,\n mời bạn vui lòng trở lại sau.</string>
+    <string name="popup_LoginSuccessful">Đăng Nhập Thành Công! \n Xin Chào </string>
+    
+    <string name="popup_LoginFB_ProblemConnect">Không thể kết nối tới EZlife vào lúc này,\n Mời bạn thử lại sau</string>
+    <string name="popup_LoginFB_New">Tài khoản EZlife của bạn đã được khởi tạo,\n Kiểm tra mail để thay đổi mật khẩu.</string>
+    
+    <string name="registerSuccess">Đăng Ký Thành Công!!!\nChọn nơi bạn muốn quay lại</string>
+    <string name="registerGoHome">Trang Chính</string>
+    <string name="registerLogin">Đăng Nhập</string>
+    <string name="registerNoticeFullInfo">Mời điền đầy đủ thông tin</string>
+    <string name="registerNoticeWrongUsername">Tên đăng nhập tối thiểu 3 ký tự</string>
+    <string name="registerNoticeWrongUsername2">Tên đăng nhập không được chứa ký tự đặc biệt</string>
+    <string name="popup_Register_UserName_Uppercase">Tên đăng nhập không được chứa ký tự viết hoa</string>
+    <string name="registerNoticeWrongPassword">Mật Khẩu tối thiểu 3 ký tự</string>
+    <string name="registerNoticePasswordNotMatch">Mật Khẩu Không Khớp</string>
+    <string name="registerNoticeWrongEmail">Email không hợp lệ</string>
+    <string name="registerNoticeWrongBirthday">Ngày tháng năm sinh không hợp lệ</string>
+    <string name="popup_RegisFail_UserExisted">Username Đã Tồn Tại Trong Hệ Thống</string>
+    <string name="popup_RegisFail_EmailExisted">Email đăng ký đã được sử dụng trong hệ thống,\n Bạn có thể thử lại với email khác</string>
+    <string name="popup_RegisFail_WrongPhoneNo">Số điện thoại không chính xác,\n Vui lòng nhập lại.</string>
+    
+    <string name="popup_cannot_conect">Không Thể Kết Nối Cơ Sở Dữ Liệu.\nVui Lòng Kiểm Tra Kết Nối Internet</string>
+    
+    <string name="popup_Membership_NotSelectType">Mời chọn hình thức đăng ký.</string>
+    <string name="popup_Membership_NotEnoughInfo">Xin điền đầy đủ thông tin.</string>
+    <string name="popup_Membership_InvalidEmail">Email đã nhập không hợp lệ.\nMời kiểm tra lại</string>
+    <string name="popup_Membership_SureToSendMail">Bạn có chắc muốn gửi Email?</string>
+    <string name="popup_Membership_SureToCancel">Bạn có chắc muốn xoá?</string>
+    <string name="popup_Membership_Send_mail_success">Mail đã được gửi</string>
+    <string name="popup_Membership_Send_mail_fail">Không thể gửi mail.\nVui lòng kiểm tra kết nối Internet</string>
+    <string name="popup_Membership_wrong_mail">Vui lòng kiểm tra địa chỉ email của bạn</string>
+    
+    <string name="error_vn">Có Lỗi!</string>
+    
+    <string name="popup_s_07_CommentNull">Không thể comment rỗng!</string>
+    <string name="popup_s_07_CommentZero">Vui lòng chọn đánh giá!</string>
+    <string name="popup_HomeItem_CannotComment">Không thể comment vào lúc này,\n Mời bạn thử lại</string>
+    <string name="popup_s_07_NoMenu">Đang Cập Nhật</string>
+    <string name="popup_s_07_NoImage">Không có hình ảnh</string>
+    
+    <string name="popup_NoPhoneNumber">Không có số điện thoại</string>
+    
+    <string name="popup_QRCoupon_wrong">Voucher này không hợp lệ</string>
+    <string name="popup_QRCoupon_CannotConnect">Không thể kết nối tới máy chủ,\n Vui lòng thử lại sau</string>
+    <string name="popup_QRCoupon_Full">Bạn đã mở tất cả các khóa. \n Vui lòng sử dụng hoặc chuyển cho người dùng khác voucher này.</string>
+    <string name="popup_QRCoupon_WrongPassword">Mật khẩu sai hoặc đã được sử dụng, \n vui lòng thử lại</string>
+    <string name="popup_Noanycoupon">Không có phiếu giảm giá</string>
+    <string name="popup_CapturePassword">Mời Điền Password</string>
+    
+    <string name="popup_ForgotPassOK">Yêu cầu được chấp nhận.\n Mời bạn kiểm tra email để tiến hành đổi password.</string>
+    <string name="popup_ForgotPass_Fail">Yêu cầu thất bại,\n xin thử lại sau</string>
+    
+    <string name="popup_ChangePass_Require">Mời bạn điền đầy đủ thông tin!</string>
+    <string name="popup_ChangePass_notMatch">Mật khẩu không khớp!</string>
+    <string name="popup_ChangePass_Length">Mật khẩu phải dài 4 - 16 ký tự!</string>
+    <string name="popup_ChangePass_Same">Mật khẩu cũ Và mới giống nhau</string>
+    <string name="popup_ChangePass_Confirm">Bạn có chắc muốn đổi mật khẩu?</string>
+    <string name="popup_ChangePass_OldWrong">Mật Khẩu Cũ Không Đúng!</string>
+    <string name="popup_ChangePass_Success">Mật khẩu đã được thay đổi thành công</string>
+    <string name="popup_ChangePass_Fail">Mật khẩu thay đổi không thành công</string>
+    
+    
+    <string name="popup_UpdateInfo_Success">Thông tin tài khoản của bạn đã được cập nhật thành công</string>
+    <string name="popup_UpdateInfo_Fail">Quá trình cập nhật thông tin có lỗi.\n Xin thử lại sau</string>
+    
+    <string name="popup_CommentEZ_success">Cảm ơn vì bạn đã đóng góp ý kiến cho chúng tôi</string>
+    <string name="popup_CommentEZ_fail">Không thể kết nối hệ thống, \n vui lòng thử lại sau</string>
+    
+    <string name="popup_Share_NoKakaotalk">Bạn cần cài đặt Kakaotalk để có thể chia sẽ ứng dụng với bạn bè</string>
+    
+    <string name="popup_SococialNetWork_NoKakaotalk">Bạn cần cài đặt Kakaotalk để quản lý tài khoản</string>
+    
+    <string-array name="month_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="sex_arrays">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    
+    <string name="Male">Nam</string>
+    <string name="FeMale">Nữ</string>
+    
+    <string name="msg_default_status">Chụp Hình Khuyến Mãi Từ Chủ Cửa Hàng.</string>
+    
+<!-- ================================================================================================== -->
+
+	<!-- ==================== MAIN MENU =================== -->
+    <!-- Promotion text -->
+    <string name="service_board_1">http://www.easylife.vn/Web_Mobile_New/api/new_board.php?</string>
+    <!-- List promotion's detail -->
+    <string name="service_board_2">http://www.easylife.vn/Web_Mobile_New/api/all_board.php?</string>
+    <string name="service_category">http://www.easylife.vn/Web_Mobile_New/api/category.php?</string>
+    <string name="service_Store_list">http://www.easylife.vn/Web_Mobile_New/api/store_list.php?</string>
+    
+    <!-- ==================== COUPON & QR CODE =================== -->
+    
+    
+    <!-- ==================== FRANCHISE =================== -->
+    <string name="service_Franchise_detail">http://easylife.vn/Web_Mobile_New/api/shopFranchiseInfo/?</string>
+    <string name="service_Store_detail">http://easylife.vn/Web_Mobile_New/api/shopInfo/?</string> <!-- (no : string) (deviceID : String) -->
+    <string name="service_franchise_home">http://www.easylife.vn/Web_Mobile_New/api/franchise_home.php?</string>
+    
+    
+    <!-- ==================== FAVOURITE =================== -->
+    
+    
+    <!-- ==================== RECRUITMENT =================== -->
+    
+    
+    <!-- ==================== RECOMMENDATION =================== -->
+    
+    <!-- ==================== SEARCH =================== -->
+    <string name="service_Store_list_search_all">http://www.easylife.vn/Web_Mobile_New/api/searchAll.php?</string>
+    <string name="service_Store_list_search">http://www.easylife.vn/Web_Mobile_New/api/search.php?</string>
+    
+    
+    <!-- ==================== SETTING =================== -->
+    
+    
+<!-- ================================================================================================ -->    
+    <string name="key_release">0F8d--FG3Ugxp9obABa0FTucNcglL2OL7LkvyFw</string>
+    <string name="key_debug">5lI+hYwBEdo8SOCI2rcZ3n+huI8=</string>
+    
+    
+    <string name="search_hint">Search Location</string>
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="E">E</string>
+    <string name="SE">SE</string>
+    <string name="S">S</string>
+    <string name="SW">SW</string>
+    <string name="W">W</string>
+    <string name="NW">NW</string>
+    <string name="OSM">Openstreetmap</string>
+    <string name="MIXARE">Mixare</string>
+    <string name="CIRCLE_MARKER">Circles</string>
+    <string name="NAVIGATION_MARKER">Arrows</string>
+    <string name="empty_list">Không có cửa hàng nào trong khoảng cách này \nXin hãy tìm kiếm trong khoảng cách xa hơn.</string>
+    <string name="launch_plugins">Launch plugins?</string>
+    <string name="plugin_message">Some plugins where found, do you want to enable them?</string>
+    <string name="remember_this_decision">Remember this decision</string>
+    <string name="menu_item_1">Data Source</string>
+    <string name="menu_item_2">List view</string>
+    <string name="menu_item_3">Map view</string>
+    <string name="menu_item_4">Zoom level</string>
+    <string name="menu_item_5">Search</string>
+    <string name="menu_item_6">Info</string>
+    <string name="menu_item_7">License</string>
+    <string name="data_source_edit_err">This data source cannot be edited.</string>
+    <string name="data_source_delete_err">This data source cannot be deleted.</string>
+    <string name="connection_error_dialog">Sorry, a connection Error occurred! \nPlease check if you are connected to the Internet.</string>
+    <string name="connection_error_dialog_button1">Retry</string>
+    <string name="connection_error_dialog_button2">Open Settings</string>
+    <string name="connection_error_dialog_button3">Close App</string>
+    <string name="connection_GPS_dialog_text">The GPS location can not be updated... \nIf you continue it could be that the Information 
+		\nwill not be displayed in the right place.</string>
+    <string name="connection_GPS_dialog_button1">Continue</string>
+    <string name="connection_GPS_dialog_button2">Close</string>
+    <string name="no_website_available">Sorry, there is no further \ninformation available.</string>
+    <string name="license_title">License</string>
+    <string name="close_button">Close</string>
+    <string name="general_info_title">General Information</string>
+    <string name="general_info_text">GPS info: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="altitude">Altitude: </string>
+    <string name="speed">Speed: </string>
+    <string name="accuracy">Accuracy: </string>
+    <string name="gps_last_fix">Last GPS fix: </string>
+    <string name="map_menu_normal_mode">Map</string>
+    <string name="map_menu_satellite_mode">Satellite</string>
+    <string name="map_menu_cam_mode">Camera</string>
+    <string name="map_my_location">My Location</string>
+    <string name="map_toggle_path_on">Show Path</string>
+    <string name="map_toggle_path_off">Hide Path</string>
+    <string name="map_current_location_click">Your current location</string>
+    <string name="data_source_add">Add data source</string>
+    <string name="data_source_edit">Edit data source</string>
+    <string name="data_source_delete">Delete data source</string>
+    <string name="data_source_change_wikipedia">Changed to Wikipedia as data source</string>
+    <string name="data_source_change_twitter">Changed to Twitter as data source</string>
+    <string name="data_source_change_osm">Changed to OpenStreetMap as data source</string>
+    <string name="search_failed_notification">No search results</string>
+    <string name="source_openstreetmap">Stations around</string>
+    <string name="search_active_1">Search on data source</string>
+    <string name="search_active_2">. Touch to terminate search</string>
+    <string name="download_error">Error while downloading</string>
+    <string name="download_received">Received data from</string>
+    <string name="add_osm_menu">Add OpenStreetMap URL</string>
+    <string name="insert_osm_url">Insert OpenStreetMap URL</string>
+    <string name="osm_max_object_menu">Set max POI per URL</string>
+    <string name="set_osm_max_object">Maximum POIs per URL</string>
+    <string name="location_not_found">Location not found, make sure you enabled Wifi location or GPS in the settings.</string>
+    <string name="refreshing">Refreshing</string>
+    
+    
+    
+    
+    
+    <string name="app_picker_name">Applications</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_back">Back</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_clipboard_empty">Clipboard empty</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_done">Done</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_google_shopper">Google Shopper</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product Search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <string name="menu_about">About</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="msg_about">The official Android app of the open source ZXing barcode project.</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_google_books">Google Books</string>
+    <string name="msg_google_product">Google Product Search</string>
+    <string name="msg_google_shopper_missing">Google Shopper is not installed</string>
+    <string name="msg_install_google_shopper">Google Shopper combines barcode scanning with online and local prices, reviews and more without opening the browser. Would you like to try it?</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_sbc_unknown_page">Unknown page</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_subject_line">Here are the contents of a barcode I scanned</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="preferences_actions_title">When a barcode is found\u2026</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_reverse_image_summary">Enable on devices with a front camera only</string>
+    <string name="preferences_reverse_image_title">Reversed camera image</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="share_name">Share via barcode</string>
+    <string name="title_about">Barcode Scanner v</string>
+    <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="zxing_url">http://code.google.com/p/zxing</string>
+    <string name="test">test</string>
+   
+    <string name="app_desc">Checkout out Hackbook for Android to learn how you can make your android apps social using Facebook Platform.</string>
+    <string name="app_action">I am using the Hackbook for Android</string>
+    <string name="request_message">Learn how to make your android apps social.</string>
+    <string name="request">Request!</string>
+    <string name="upload">Upload Photo</string>
+    <string name="post">Wall Post!</string>
+    <string name="no_login">Graph API Explorer</string>
+    <string name="get_permissions">Get Permissions</string>
+    <string name="access_token">Access Token:</string>
+    <string name="graph_domain">https://graph.facebook.com/</string>
+    <string name="label_output">Output:</string>
+    <string name="show_metadata">Show metadata</string>
+    <string name="show_picture">Show picture</string>
+    <string name="view_url">URL</string>
+    <string name="target_url">Target URL:</string>
+    <string name="exception">Exception: </string>
+    <string name="tip_label">Tip:</string>  
+    <string name="error">Error</string>
+    <string name="facebook_error">Facebook Error: </string>
+    <string name="api_response">Api Response:</string>
+    <string name="view_source">View Source</string>
+    <string name="view_post">View Post</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="source_code">Source Code:</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="view_photo">View Photo</string>
+    <string name="hide_photo">Hide Photo</string>
+    <string name="tag_photo">Tag Photo</string>
+    <string name="graph_button">Graph API</string>
+    <string name="fql_button">FQL Query</string>
+    <string name="source_tag">Source tag:</string>
+    <string name="permission_source_tag">Source tag: \"perms_tag\"</string>
+    <string name="Graph_FQL_title">Graph API or FQL Query?</string>
+    <string name="Graph_FQL_msg">Get friends using Graph or FQL Query?\n\nWith FQL query you can sort the list by names, whereas with Graph list will be ordered by UID and can\'t be changed.</string>
+    <string name="can_post_on_wall_title">Post on friend\'s wall</string>
+    <string name="can_post_on_wall">Friends list fetched. You can post on friend\'s wall by clicking on the item.</string>
+    <string name="ok">OK</string>
+    <string name="post_on_wall_title">Post on Wall?</string>
+    <string name="post_on_wall">Would you like to post on %1$s\'s wall</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="get_fields">Get Fields</string>
+    <string name="fields">Fields</string>
+    <string name="connections">Connections</string>
+    <string name="checkin">Check-in</string>
+    <string name="cancel">Cancel</string>
+    <string name="user">User Data</string>
+    <string name="friend">Friends Data</string>
+    <string name="extended">Extended</string>
+    <string name="gallery_remote_title">Upload from gallery or remote?</string>
+    <string name="gallery_remote_msg">Upload picture from phone\' gallery or remote server?</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="remote_button">Remote</string>
+    <string name="get_location">Get Location?</string>
+    <string name="get_default_or_new_location">Get current location or use Times Square as the location?</string>
+    <string name="current_location_button">Current Location</string>
+    <string name="fetching_current_permissions">Fetching current permissions...</string>
+    <string name="explorer_message">Also, checkout the web-version of the <a href="http://developers.facebook.com/tools/explorer">Graph API Explorer tool</a></string>
+    <string name="nearby_places">Fetching nearby places...</string>
+    <string name="times_square_button">Times Square</string>
+    <string name="check_in_title">Check-in?</string>
+    <string name="permissions">Permissions</string>
+    <string name="back_parent">Back to parent</string>
+    <string name="fields_and_connections">Fields \u0026 Connections</string>
+    <string name="permissions_request">Select Permissions:</string>
+    <string name="permission_detail">Checkout <a href="https://developers.facebook.com/docs/authentication/permissions/">permissions reference doc</a></string>
+    <string name="fetching_location">Fetching Location...</string>
+    <string name="check_in_at">Would you like to check-in at %1$s?</string>
+    <string name="post_tip">\'read_stream\' permission is required to view and delete the post.\n\nUse SDK dialogs to publish stories or post on friends wall. <a href="https://developers.facebook.com/docs/reference/dialogs">More info</a>\n\n<a href="https://developers.facebook.com/docs/reference/api/Comment">Like and Comment on a post</a></string>
+    <string name="photo_tip">Photos are by default uploaded to the app\'s album. Specify album_id to upload to specific album. E.g. https://graph.facebook.com/{album_id}/photos.\n\nMore Info: https://developers.facebook.com/docs/reference/api/photo</string>
+    <string name="fqlquery">Enter FQL Query:</string>
+    <string name="enable_gps_title">Enable GPS</string>
+    <string name="enable_gps">Please enable GPS to get nearby places and check-in</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="refresh_token_title">Refresh Token</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="refresh_button_pending">Refreshing…</string>
+    <string name="refresh_token_tip">In most cases the access token should be refreshed silently when the application is running (for example see Hackbook onResume method).</string>
+    <string name="refresh_token_binding_error">Binding to the Facebook Android Application failed (is it installed?).</string>
+    <string name="access_token_label">Current access token:</string>
+    <string name="access_token_expires_label">Token expires at:</string>
+    <string name="cancel_update">Update status cancelled</string>
+    <string name="update_success">Update Status executed</string>
+    <string name="update_fail">No wall post made</string>
+    <string name="login_complete">Login Complete.</string>
+    <string name="send">Send</string>
+    <string name="message_sended_file_error">Not Support</string>
+    <string name="title_cancle_editpost">Edit</string>
+    <string name="message_cancel_editpost">Sure To Cancel?</string>
+    <string name="text_facebook">Text was sent to server facebook.</string>
+    <string name="text_twitter">Text was sent to server twitter.</string>
+    <string name="errortwiteer">Text was sent to server twitter.</string>
+    
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From Ezlife: device successfully registered!</string>
+    <string name="gcm_unregistered">From Ezlife: device successfully unregistered!</string>
+    <string name="gcm_message">From Ezlife: you got message!</string>
+    <string name="gcm_error">From Ezlife: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From Ezlife: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From Ezlife: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Ezlife Server.</string>
+    <string name="server_registered">From Ezlife Server: successfully added device!</string>
+    <string name="server_unregistered">From Ezlife Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Ezlife Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Ezlife Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    
+    
+    
+    
+</resources>
